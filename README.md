@@ -27,7 +27,7 @@
 
 ###
 
-<h1 align="center">WELCOME TO MICHAEL'S PROFILE</h1>
+<h1 align="center">WELCOME TO MICHAEL'S PAGE</h1>
 
 ###
 
