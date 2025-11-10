@@ -1,33 +1,14 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eDg0Z2g4MzN3enFlM2c5M2J2bTd2aDllcmtzajB5Mzh0YTQ4cTcxayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QHE5gWI0QjqF2/giphy.gif"  />
-</div>
+<p align="center">
+  <img src="https://img0.baidu.com/it/u=2530228923,1926527804&fm=253&app=138&f=JPEG?w=800&h=800" 
+       alt="Profile image" 
+       width="200" 
+       style="border-radius: 50%;">
+</p>
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/michael-lai-00b72232b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="uniegg132@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/michaellai312_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/23724038/michael-lai" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
-  </a>
-</div>
+<h1 align="center">Hello</h1>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Unieggy.Unieggy&"  />
-</div>
-
-###
-
-<h1 align="center">WELCOME TO MICHAEL'S PAGE</h1>
 
 ###
 
