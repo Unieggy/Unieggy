@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://img0.baidu.com/it/u=2530228923,1926527804&fm=253&app=138&f=JPEG?w=800&h=800" 
-       alt="Profile image" 
-       width="200" 
-       style="border-radius: 50%;">
-</p>
 
 ###
 
