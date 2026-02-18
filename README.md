@@ -1,16 +1,6 @@
-
-###
-
-<h1 align="center">Hello</h1>
-
-
-###
-
 <div align="center">
-  Hello
-  <br />
-  <br />
-  <code>Z E Y U &nbsp; L A I</code>
+  <p>Hello</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=400&size=30&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=I+am+Zeyu+Lai;Software+Engineer" alt="Typing SVG" />
+  </a>
 </div>
-
-
